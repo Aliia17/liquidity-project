@@ -12,9 +12,8 @@ To assess how various liquidity proxies relate to each other both cross-sectiona
 
 The dataset (`liquidity.csv`) contains daily stock data including prices, volume, bid/ask prices, and returns.
 
-The plot shows consistent illiquidity:
+The plot shows consistent across different measures illiquidity spikes during the 2007 financial crisis:
 
 ![Liquidity Measures](liquidity_measures_plot.png)
 
-Spikes during the 2007 financial crisis.
 
