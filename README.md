@@ -8,4 +8,4 @@ Corwin and Schultz Spread (2012)
 Chung and Zhang Spread (2014)
 The dataset (liquidity.csv) contains daily stock data including prices, volume, bid/ask prices, and returns.
 The plot shows consistent illiquidity spikes during the 2007 financial crisis. 
-![Main Chart](![Main Chart](chart.png))
+![Main Chart](liquidity_measures_plot.png)
