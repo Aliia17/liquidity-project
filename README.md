@@ -14,7 +14,7 @@ The dataset (`liquidity.csv`) contains daily stock data including prices, volume
 
 The plot shows consistent illiquidity:
 
-![Liquidity Measures](image.png)
+![Liquidity Measures](liquidity_measures_plot.png)
 
 Spikes during the 2007 financial crisis.
 
